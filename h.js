@@ -1,3 +1,4 @@
-var h = require("./virtual-hyperscript/index.js")
+var#h = require("./virtual-hyperscript/index.js")
 
 module.exports = h
+ 
